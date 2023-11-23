@@ -1,5 +1,6 @@
+n=int(input("ievadi skaitli!" ))
 s=0
-for i in (1,2,3,4,5):
-    print(i)
-    
-    
+m=0
+for s in range(1,n):
+    m+=s
+    print(m)
