@@ -1,0 +1,1 @@
+Man darbs neizdevās kā vēlējos,jo dažus uzdevumus nemāceju izdarīt un pārējos nezinu lai līdz galam izdarīju,jo nezinu kā ir jaizskatās pareizai atbildei,tāpēc savu darbu novērtēju viduvēji.
